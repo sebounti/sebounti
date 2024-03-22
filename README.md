@@ -26,6 +26,8 @@ Well, given that my waistline is closer to that of Jabba the Hutt than that of a
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebounti)](https://github.com/sebounti/github-readme-stats) 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=STATS&theme=sea-dark&hide_border=true&border_radius=40&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </p>
 
 ...
