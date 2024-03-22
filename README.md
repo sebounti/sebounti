@@ -21,6 +21,7 @@ Well, given that my waistline is closer to that of Jabba the Hutt than that of a
 
 ### My Competences
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebounti)](https://github.com/sebounti/github-readme-stats)
 ...
 
 ## What are the weapons?
