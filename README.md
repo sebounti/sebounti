@@ -22,12 +22,16 @@ Well, given that my waistline is closer to that of Jabba the Hutt than that of a
 ### My Competences
 
 ### My Stats
+<p align="center">
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebounti)](https://github.com/sebounti/github-readme-stats)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebounti)](https://github.com/sebounti/github-readme-stats) 
+</p>
+
 ...
    
 ## What are the weapons?  
+<p align="center">
 <img width="100px" height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img width="100px" height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
    <img width="100px" height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
@@ -35,7 +39,7 @@ Well, given that my waistline is closer to that of Jabba the Hutt than that of a
      <img width="100px" height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
       <img width="100px" height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
        <img width="100px" height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-    
+</p>
 ...
 
 ## My Social Media
