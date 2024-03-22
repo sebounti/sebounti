@@ -22,12 +22,16 @@ Well, given that my waistline is closer to that of Jabba the Hutt than that of a
 ### My Competences
 
 ### My Stats
+
 <p align="center">
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebounti)](https://github.com/sebounti/github-readme-stats) 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=STATS&theme=sea-dark&hide_border=true&border_radius=40&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  <a href="https://github.com/sebounti/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=sebounti" alt="Anurag's GitHub stats" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=STATS&theme=sea-dark&hide_border=true&border_radius=40&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </a>
 </p>
 
 ...
