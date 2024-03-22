@@ -21,7 +21,7 @@ Well, given that my waistline is closer to that of Jabba the Hutt than that of a
 
 ### My Competences
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebounti)](https://github.com/sebounti/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebounti)](https://github.com/sebounti/github-readme-stats)  
 ...
  <img width="100px" height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img width="100px" height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
