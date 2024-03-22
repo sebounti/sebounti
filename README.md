@@ -23,7 +23,7 @@ Well, given that my waistline is closer to that of Jabba the Hutt than that of a
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebounti)](https://github.com/sebounti/github-readme-stats)
 ...
- <img width="20px" height="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+ <img width="100px" height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 ## What are the weapons?
 
 ...
